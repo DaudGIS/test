@@ -17,5 +17,6 @@ if __name__ == '__main__':
 # my First branch commit
 # my Second branch commit
 # my Third branch commit
+# my First-Third branch commit
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
